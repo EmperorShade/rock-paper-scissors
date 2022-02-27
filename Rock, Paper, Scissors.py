@@ -32,6 +32,9 @@ while True:
 
         else:
             print(f"The rock smashes your scissor to death. Buh byee!")
+            
+    else:
+        print("Invalid Move")
 
 
     play_again = input("\nPlay Again? (y/n)\n")
